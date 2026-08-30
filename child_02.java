@@ -24,7 +24,7 @@ public class child_02  {
 		
 		l1.add("aus");
 		
-		l1.add("nz");
+		l1.add("nzl");
 		
 		l1.add("sat");
 		

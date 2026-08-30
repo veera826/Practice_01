@@ -26,7 +26,7 @@ public class child_02  {
 		
 		l1.add("nz");
 		
-		l1.add("sa");
+		l1.add("sat");
 		
 		
 		  boolean found = false;

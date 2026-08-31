@@ -22,7 +22,7 @@ public class child_02  {
 		
 		l1.add("eng");
 		
-		l1.add("aus");
+		l1.add("auss");
 		
 		l1.add("nzl");
 		

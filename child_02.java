@@ -22,7 +22,7 @@ public class child_02  {
 		
 		l1.add("engl");
 		
-		l1.add("aus");
+		l1.add("auss");
 		
 		l1.add("nzl");
 		
@@ -32,7 +32,7 @@ public class child_02  {
 		  boolean found = false;
 		  
 		  for(String country : l1) { 
-			  if(country.equals("muss")) { 
+			  if(country.equals("mussss")) { 
 				  found = true;
 				  break;
 		  } }
